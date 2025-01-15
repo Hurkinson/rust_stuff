@@ -1,0 +1,11 @@
+["edition2024"]
+
+[package]
+name = "vivi_splash"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13.2"
+bevy_tweening = "0.10"
+bevy_splash_screen = "0.6.0"
